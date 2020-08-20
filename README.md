@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 ### 💬 Ask me about my art or my projects!
 
 -ISC Yeti member since summer 2019
