@@ -1,12 +1,11 @@
 ### Hi there 👋
 ### 💬 Ask me about my art or my projects!
 
-###
--ISC Yeti member since summer 2019;
+-ISC Yeti member since summer 2019
 
-Yeti electrical lead;
+-Yeti electrical lead
 
-ISC president January 2020 - present
+-ISC president January 2020 - present
 
 <!--
 **NathanLemus/NathanLemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
