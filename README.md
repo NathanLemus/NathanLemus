@@ -1,5 +1,6 @@
 ### 👋
 ### 💬 Ask me about my art or my projects!
+### Working on a colaberative algo trading bot!
 
 -ISC Yeti member since summer 2019
 
